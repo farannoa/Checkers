@@ -1,0 +1,7 @@
+F:\לימודים\שנה ב סמסטר ב\C#\גרסא להגשה\B22 Ex05 Noa 207080136 Nadav 206933954\Ex05.Logic\bin\Debug\Ex05.Logic.dll.config
+F:\לימודים\שנה ב סמסטר ב\C#\גרסא להגשה\B22 Ex05 Noa 207080136 Nadav 206933954\Ex05.Logic\bin\Debug\Ex05.Logic.dll
+F:\לימודים\שנה ב סמסטר ב\C#\גרסא להגשה\B22 Ex05 Noa 207080136 Nadav 206933954\Ex05.Logic\bin\Debug\Ex05.Logic.pdb
+F:\לימודים\שנה ב סמסטר ב\C#\גרסא להגשה\B22 Ex05 Noa 207080136 Nadav 206933954\Ex05.Logic\obj\Debug\Ex05.Logic.csprojAssemblyReference.cache
+F:\לימודים\שנה ב סמסטר ב\C#\גרסא להגשה\B22 Ex05 Noa 207080136 Nadav 206933954\Ex05.Logic\obj\Debug\Ex05.Logic.csproj.CoreCompileInputs.cache
+F:\לימודים\שנה ב סמסטר ב\C#\גרסא להגשה\B22 Ex05 Noa 207080136 Nadav 206933954\Ex05.Logic\obj\Debug\Ex05.Logic.dll
+F:\לימודים\שנה ב סמסטר ב\C#\גרסא להגשה\B22 Ex05 Noa 207080136 Nadav 206933954\Ex05.Logic\obj\Debug\Ex05.Logic.pdb
